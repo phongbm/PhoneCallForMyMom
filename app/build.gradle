@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 29
-    buildToolsVersion '30.0.0'
+    buildToolsVersion '29.0.3'
 
     defaultConfig {
         applicationId 'com.phongbm.phonecallformymom'
@@ -37,3 +37,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 }
+
+// Keystore
+// P***C**F**M*M**
+// a******6
